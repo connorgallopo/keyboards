@@ -11,6 +11,16 @@
       "name": "OLED Edit",
       "title": "Enter/exit OLED text edit mode. While editing: type characters, Enter saves, Esc cancels.",
       "shortName": "OLED"
+    },
+    {
+      "name": "OLED L",
+      "title": "Left OLED chord key. Hold together with OLED R + Esc to enter IAP bootloader.",
+      "shortName": "OLED-L"
+    },
+    {
+      "name": "OLED R",
+      "title": "Right OLED chord key. Hold together with OLED L + Esc to enter IAP bootloader.",
+      "shortName": "OLED-R"
     }
   ],
   "layouts": {
